@@ -1,5 +1,5 @@
 <h1 align="center">Music Recommendation System</h1>
-  <h3>The open-source DocSend alternative.</h3>
+  <h3>A unsupervised learning model which analyses playlists and gives recommendations</h3>
 
 </div>
 
