@@ -12,4 +12,4 @@
 
 <br/>
 
-Papermark is the open-source document sharing alternative to DocSend with built-in analytics and custom domains.
+This project explores the use of unsupervised learning models to analyze playlists and generate music recommendations. The dataset employed for this purpose is the Freesound Audio Tagging (FMA) dataset.
